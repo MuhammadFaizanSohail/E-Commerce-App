@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">E-CommerceApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="register">"Register"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_an_account">Please enter your details</string>
+    <string name="create_an_account_to_continue">Create an account to continue!</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_please_wait">Please Wait…</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="login">Login</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="oops_we_ran_into_a_proplem">Oops! We ran into a problem!</string>
+    <string name="no_internet">It looks like there\'s no internet connection. Please check your network settings and try again.</string>
+    <string name="okay">Okay</string>
+    <string name="enter_email">Enter Mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password_too_short">Password too short</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="write_a_review">Write a review</string>
+    <string name="your_name">Your Name</string>
+    <string name="customer_reviews">Customer Reviews</string>
+    <string name="great_product">Great product!</string>
+    <string name="john_doe">John Doe</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="start_shopping_now">Start shopping now.</string>
+    <string name="your_cart_is_empty">Your cart is empty!</string>
+    <string name="empty_cart">Empty Cart</string>
+    <string name="no_orders_found">No Orders Found</string>
+    <string name="no_orders_yet">No Orders Yet!</string>
+    <string name="place_your_first_order_now">Place your first order now.</string>
+    <string name="order_placed_successfully">Order placed successfully!</string>
+    <string name="order">Orders</string>
+    <string name="review_payment">Review Payment</string>
+    <string name="deliver_to">Deliver To</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="bill_summary">Bill Summary</string>
+    <string name="total">Total</string>
+    <string name="place_order">Place Order</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="user_email">User Email</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="sure_to_exit">Are you sure you want to exit?</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="search_products">Search products…</string>
+
+</resources>

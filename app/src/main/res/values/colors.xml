@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="textColor">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="activity_bg">#FFFFFFFF</color>
+    <color name="text_color_black_light">#404040</color>
+    <color name="colorPrimary">#536DFE</color>
+    <color name="colorPrimaryDark">#3346C1</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="yellow">#FFDD00</color>
+    <color name="red">#F44336</color>
+    <color name="bottom_nav_bg">#FFFFFFFF</color>
+
+</resources>
